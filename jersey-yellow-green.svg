@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+        <rect width="1200" height="800" fill="#e8dfc9"/>
+        <path d="M390 140 L510 95 H690 L810 140 L1015 285 L905 455 L805 390 V700 H395 V390 L295 455 L185 285 Z" fill="#d7a72d" stroke="#1d1d1b" stroke-width="12"/>
+        <path d="M510 95 C535 175, 665 175, 690 95" fill="#f1e8d0"/>
+        <path d="M238 285 L334 235 L410 345 L314 405 Z M962 285 L866 235 L790 345 L886 405 Z" fill="#12382d"/>
+        <rect x="395" y="575" width="410" height="45" fill="#12382d"/>
+        <rect x="395" y="625" width="410" height="18" fill="#b94a2c"/>
+        <circle cx="600" cy="365" r="105" fill="#12382d" stroke="#f1e8d0" stroke-width="10"/>
+        <text x="600" y="385" text-anchor="middle" font-family="Impact, Arial Black, sans-serif" font-size="86" fill="#f1e8d0" stroke="#12382d" stroke-width="2">GB</text>
+        <text x="600" y="740" text-anchor="middle" font-family="Impact, Arial Black, sans-serif" font-size="54" fill="#12382d">YELLOW / GREEN</text>
+        <g opacity=".16" stroke="#f1e8d0" stroke-width="7">
+          <path d="M410 210 L780 650 M470 185 L830 610 M350 565 L770 145"/>
+        </g>
+        </svg>
