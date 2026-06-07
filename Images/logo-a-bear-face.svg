@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000">
+  <defs>
+    <filter id="rough"><feTurbulence type="fractalNoise" baseFrequency=".9" numOctaves="2" stitchTiles="stitch"/><feColorMatrix type="saturate" values="0"/><feComponentTransfer><feFuncA type="table" tableValues="0 .18"/></feComponentTransfer><feBlend in="SourceGraphic" mode="multiply"/></filter>
+    <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#071814"/><stop offset="1" stop-color="#12382d"/></linearGradient>
+  </defs>
+  <rect width="1400" height="1000" fill="url(#bg)"/>
+  <circle cx="700" cy="475" r="330" fill="#1d1d1b" stroke="#d7a72d" stroke-width="28"/>
+  <circle cx="475" cy="235" r="122" fill="#1d1d1b" stroke="#d7a72d" stroke-width="22"/>
+  <circle cx="925" cy="235" r="122" fill="#1d1d1b" stroke="#d7a72d" stroke-width="22"/>
+  <path d="M410 475 C430 275 565 205 700 205 C835 205 970 275 990 475 C1012 682 870 800 700 815 C530 800 388 682 410 475Z" fill="#5a3b2d" stroke="#f1e8d0" stroke-width="18"/>
+  <path d="M515 445 C545 335 625 295 700 295 C775 295 855 335 885 445 C835 505 565 505 515 445Z" fill="#7a5037" opacity=".9"/>
+  <path d="M602 505 C645 465 755 465 798 505 C775 595 625 595 602 505Z" fill="#111"/>
+  <circle cx="602" cy="405" r="34" fill="#f1e8d0"/>
+  <circle cx="798" cy="405" r="34" fill="#f1e8d0"/>
+  <circle cx="612" cy="408" r="12" fill="#111"/>
+  <circle cx="788" cy="408" r="12" fill="#111"/>
+  <path d="M550 635 C615 705 785 705 850 635" fill="none" stroke="#111" stroke-width="24" stroke-linecap="round"/>
+  <path d="M505 350 L600 380 M895 350 L800 380" stroke="#111" stroke-width="20" stroke-linecap="round"/>
+  <text x="700" y="915" text-anchor="middle" font-family="Impact, Arial Black, sans-serif" font-size="96" fill="#d7a72d" stroke="#1d1d1b" stroke-width="5">LOGO A</text>
+  <rect width="1400" height="1000" filter="url(#rough)" opacity=".35"/>
+</svg>

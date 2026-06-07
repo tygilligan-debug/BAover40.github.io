@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000">
+  <rect width="1400" height="1000" fill="#12382d"/>
+  <rect x="90" y="75" width="1220" height="850" rx="70" fill="#071814" stroke="#d7a72d" stroke-width="18"/>
+  <text x="700" y="155" text-anchor="middle" font-family="Impact, Arial Black, sans-serif" font-size="110" fill="#d7a72d" stroke="#1d1d1b" stroke-width="5">RUSTY</text>
+  <circle cx="700" cy="470" r="230" fill="#1d1d1b" stroke="#d7a72d" stroke-width="22"/>
+  <path d="M520 455 C535 320 620 270 700 270 C780 270 865 320 880 455 C895 590 805 670 700 682 C595 670 505 590 520 455Z" fill="#5a3b2d" stroke="#f1e8d0" stroke-width="14"/>
+  <circle cx="635" cy="407" r="26" fill="#f1e8d0"/>
+  <circle cx="765" cy="407" r="26" fill="#f1e8d0"/>
+  <path d="M640 495 C675 470 725 470 760 495 C744 550 656 550 640 495Z" fill="#111"/>
+  <text x="700" y="790" text-anchor="middle" font-family="Impact, Arial Black, sans-serif" font-size="98" fill="#d7a72d" stroke="#1d1d1b" stroke-width="5">GRIZZLIES</text>
+  <text x="700" y="945" text-anchor="middle" font-family="Arial Black, sans-serif" font-size="42" fill="#f1e8d0">OPTION A — NAME ABOVE + BELOW</text>
+</svg>

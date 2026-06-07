@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000">
+  <rect width="1400" height="1000" fill="#e8dfc9"/>
+  <path d="M455 155 L595 105 H805 L945 155 L1190 330 L1060 530 L940 450 V850 H460 V450 L340 530 L210 330 Z" fill="#1d1d1b" stroke="#1d1d1b" stroke-width="15"/>
+  <path d="M595 105 C625 200 775 200 805 105" fill="#f1e8d0" stroke="#1d1d1b" stroke-width="8"/>
+  <path d="M272 330 L390 270 L485 415 L365 485 Z M1128 330 L1010 270 L915 415 L1035 485 Z" fill="#b94a2c"/>
+  <rect x="460" y="690" width="480" height="55" fill="#b94a2c"/>
+  <rect x="460" y="755" width="480" height="22" fill="#d7a72d"/>
+  <rect x="460" y="805" width="480" height="15" fill="#f1e8d0" opacity=".75"/>
+  <circle cx="700" cy="455" r="130" fill="#071814" stroke="#d7a72d" stroke-width="13"/>
+  <text x="700" y="480" text-anchor="middle" font-family="Impact, Arial Black, sans-serif" font-size="112" fill="#d7a72d" stroke="#1d1d1b" stroke-width="3">C</text>
+  <text x="700" y="935" text-anchor="middle" font-family="Impact, Arial Black, sans-serif" font-size="74" fill="#f1e8d0" stroke="#1d1d1b" stroke-width="5">OPTION C — DARK ALT</text>
+  <g opacity=".16" stroke="#f1e8d0" stroke-width="8" stroke-linecap="round">
+    <path d="M410 245 L875 835 M520 190 L980 790 M380 730 L940 190"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#1d1d1b"/><stop offset="1" stop-color="#12382d"/></linearGradient>
+  </defs>
+  <rect width="1400" height="1000" fill="url(#bg)"/>
+  <path d="M270 585 C330 355 545 295 750 330 C925 360 1065 455 1150 650 C985 735 760 760 555 720 C420 695 325 650 270 585Z" fill="#5a3b2d" stroke="#d7a72d" stroke-width="24"/>
+  <circle cx="975" cy="332" r="92" fill="#5a3b2d" stroke="#d7a72d" stroke-width="20"/>
+  <circle cx="862" cy="325" r="68" fill="#5a3b2d" stroke="#d7a72d" stroke-width="18"/>
+  <path d="M940 385 C1015 395 1075 438 1120 500" fill="none" stroke="#111" stroke-width="24" stroke-linecap="round"/>
+  <circle cx="1010" cy="315" r="16" fill="#111"/>
+  <path d="M405 700 L368 865 M610 735 L585 890 M845 735 L875 890 M1040 675 L1110 850" stroke="#111" stroke-width="34" stroke-linecap="round"/>
+  <path d="M350 575 C475 510 642 505 785 535" stroke="#7a5037" stroke-width="42" stroke-linecap="round" opacity=".65"/>
+  <text x="700" y="130" text-anchor="middle" font-family="Impact, Arial Black, sans-serif" font-size="108" fill="#d7a72d" stroke="#1d1d1b" stroke-width="5">LOGO B</text>
+  <text x="700" y="935" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="46" fill="#f1e8d0">FULL BEAR MARK</text>
+</svg>
