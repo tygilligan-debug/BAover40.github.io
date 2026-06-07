@@ -1,28 +1,19 @@
-# Final Production Hockey Team Vote Site
+# Updated Finalist Hockey Vote Site
 
-This package includes a polished static website for your men's league hockey team vote.
+Upload `index.html`, `styles.css`, and the full `Images` folder to GitHub.
 
-## Included
+Suggested Google Form questions:
 
-- `index.html`
-- `styles.css`
-- Separate SVG image files in `/images`
-- Embedded Google Form already added
+1. Which team identity do you like best?
+- Rusty Blades
+- Rusty Grizzlies — Option 2
+- Grizzly Blades — Option 2
 
-## Live Google Form Embedded
+2. Which jersey color do you prefer?
+- Gold
+- Green
 
-The form embedded in the site is:
+3. Any comments or changes?
 
-https://docs.google.com/forms/d/e/1FAIpQLSelumt89lQeKrVlXi8-kidVGcLu6mfbuXuHi0DXcJt9-h-0Pg/viewform?embedded=true
 
-## Upload options
-
-You can host this folder free with:
-
-- GitHub Pages
-- Netlify
-- Vercel
-
-## Editing image files
-
-All visual option images are separate SVG files in `/images`, so you can replace them later with final jersey renders or PNG mockups using the same filenames.
+Google Form embed updated to height 1872.
